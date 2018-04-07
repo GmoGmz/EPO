@@ -3,10 +3,11 @@ ITESO patent search on EPO source code project - This is a work in progress proj
 Author: Guillermo Gomez
 mail: ms684823@iteso.mx
 mail: guillermogomezmora@gmail.com
-
 +52 1 331 892 3936
-==========
-The INSTRUCTIONS to make this compile on a system are the next:
+
+INSTRUCTIONS
+============
+To make this compile on a Linux system please follow the next:
 
 1. Install nodejs 8.x
 	curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
