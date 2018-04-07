@@ -1,12 +1,12 @@
-ITESO EPO source code project 
+ITESO patent search on EPO source code project - This is a work in progress project that will work as an internal tool for ITESO's researchers to find out trends from any patent that the EPO has.
 ===========
-Autjor: Guillermo Gomez
-ms684823@iteso.mx
-guillermogomezmora@gmail.com
+Author: Guillermo Gomez
+mail: ms684823@iteso.mx
+mail: guillermogomezmora@gmail.com
 
 +52 1 331 892 3936
-
-The instructions to make this compile on a system are the next:
+==========
+The INSTRUCTIONS to make this compile on a system are the next:
 
 1. Install nodejs 8.x
 	curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
